@@ -6,7 +6,7 @@
 
 ## This repository contains only smart contracts code. For front-end and code see link below
 
-* ### [NFT Marketplace code](https://github.com/Marabunta12/nextjs-nft-marketplace-moralis)
+* ### [NFT Marketplace frontend code](https://github.com/Marabunta12/nextjs-nft-marketplace-moralis)
 
 # Getting Started
 
